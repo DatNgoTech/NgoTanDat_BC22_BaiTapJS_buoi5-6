@@ -517,7 +517,3 @@ input[type=radio]:checked ~ label{
   display: none ;
  }
  /* End div thanh tien */
-
- #btnHoaDon{
-   display: none;
- }
